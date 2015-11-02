@@ -1,0 +1,23 @@
+[
+  {
+    "MenuType": "Page",
+    "Title": "Generic Layout",
+    "Icon": "/Assets/DataImages/ModuleLogo.png",
+    "Target": "GenericLayoutListPage",
+    "_id": "5a41e871-d2db-4b3e-84b2-e587096f5a85"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Photo Layout",
+    "Icon": "/Assets/DataImages/ModuleLogo-1.png",
+    "Target": "PhotoLayoutListPage",
+    "_id": "ebb0219f-e94a-4c5e-969c-7103e96155e8"
+  },
+  {
+    "MenuType": "Page",
+    "Title": "Text Layout",
+    "Icon": "/Assets/DataImages/ModuleLogo-2.png",
+    "Target": "TextLayoutListPage",
+    "_id": "8ff5f32e-3d1b-4685-96ef-0305323704d1"
+  }
+]
